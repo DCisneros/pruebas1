@@ -1,0 +1,25 @@
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\Capacitacion.exe.config
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\Capacitacion.exe
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\Capacitacion.pdb
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\PrincipalDLL.dll
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\MySql.Data.dll
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\conexionDLL.dll
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\PrincipalDLL.pdb
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\conexionDLL.pdb
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.Form1.resources
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.Properties.Resources.resources
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.exe
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion DLL\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.pdb
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\Capacitacion.exe.config
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.exe
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.pdb
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.Form1.resources
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.Properties.Resources.resources
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\obj\Debug\Capacitacion.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\Capacitacion.exe
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\Capacitacion.pdb
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\PrincipalDLL.dll
+C:\Users\Cristian\Desktop\asis12\Archivos Capacitacion\Capacitacion\Capacitacion\bin\Debug\PrincipalDLL.pdb
